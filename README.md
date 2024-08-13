@@ -56,4 +56,4 @@ if int(guess) != chiffre_a_trouver:
 6. Si vous y arrivez, bravo vous serez récompensé d'un petit message
 7. Si vous faites les 10 essais sans trouver, vous recevrez un message vous disant que vous avez perdu avec le nombre que vous deviez trouver
 
-![Alt text](https://www.studycdn.space/sites/default/files/styles/hero_article_big/public/article/2022-06/arton103809.png.webp?itok=KHFKtNF5)
+![Alt text](https://onlinedegrees.sandiego.edu/wp-content/uploads/2023/05/6-careers-you-can-get-with-python.jpg)
